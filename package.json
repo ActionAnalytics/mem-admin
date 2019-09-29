@@ -40,7 +40,7 @@
     "express-session": "1.15.6",
     "forever": "0.15.3",
     "glob": "5.0.15",
-    "helmet": "3.12.1",
+    "helmet": "3.21.1",
     "lodash": "4.17.11",
     "method-override": "2.3.10",
     "minimatch": "3.0.4",
